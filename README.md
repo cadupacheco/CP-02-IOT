@@ -66,5 +66,3 @@ O objetivo é comparar desempenho entre abordagens de **Deep Learning** e **Mach
 - Carlos Eduardo Rodrigues Coelho Pacheco — RM557323  
 - Pedro Augusto Costa Ladeira — RM558514  
 
----
-📌 Projeto acadêmico para fins de estudo em **Inteligência Artificial** e **Aprendizado de Máquina**.
